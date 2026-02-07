@@ -18,12 +18,13 @@ List your actual tools — remove/add categories as needed
 
 ## 📌 Featured Projects
 
-<!-- Link to your pinned repos with a one-liner each -->
 | Project | Description |
 |---------|-------------|
-| [Project Name](link) | One-line summary of what it does and why it matters |
-| [Project Name](link) | One-line summary |
-| [Project Name](link) | One-line summary |
+| [autonomous-drone](https://github.com/Parlipuudja/autonomous-drone) | YOLO-based person detection and obstacle avoidance for Tello drones |
+| [TradingML](https://github.com/Parlipuudja/TradingML) | Algorithmic trading framework combining Backtrader backtesting with Interactive Brokers |
+| [Rocketman](https://github.com/Parlipuudja/Rocketman) | Firefly synchronization simulation on a 300-LED NeoPixel strip with Raspberry Pi Pico |
+| [digital-twin-students](https://github.com/Parlipuudja/digital-twin-students) | Vibe-coded LLM-based digital twin archetypes of students for privacy-preserving educational research |
+| [riigikogu-digital-twin](https://github.com/Parlipuudja/riigikogu-digital-twin) | Vibe-coded AI-powered vote prediction system for Estonian Parliament MPs |
 
 ## 🏆 Highlights
 
