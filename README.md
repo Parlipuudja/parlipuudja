@@ -29,7 +29,6 @@ List your actual tools — remove/add categories as needed
 
 <!-- Optional: competitions, publications, achievements — keep it short -->
 - 🥈 Silver Medal — 1st IOAI Bulgaria, 2024
-- 📄 Conference MC and organizer — Foreign Ministry of Estonia, 2025
 - 🚀 Rakett69 contestant, XV flight 
 
 ## 📫 Contact
