@@ -1,10 +1,10 @@
 # Hi, I'm Hendrik! 👋
 
-Student at University of Tartu · Tartu, Estonia
+Hendrik Pärli · Student at University of Tartu · Tartu, Estonia
 
 ## About Me
 
-I'm a 1st year B.Sc student at University of Tartu, focusing on AI. Currently working on researching AI Leap at the Computer Sciences Institute of UT. I'm passionate about Human-Computer Interaction and Education Innovation.
+I'm a 1st year B.Sc CS student at the University of Tartu, focusing on AI. Currently working on researching AI Leap at the Computer Sciences Institute of UT. I'm passionate about Human-Computer Interaction and Education Innovation.
 
 ## 📌 Featured Projects
 
